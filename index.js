@@ -13,12 +13,6 @@ const createFareMultiplier = function(multiplier) {
   return function(fare) {
     return multiplier * fare;
   };
-  }
-
-const createFareMultiplier = function (multiplyValue) {
-  return function (value) {
-    return multiplyValue * value;
-  };
 };
 
 function fareDoubler(fare) {
