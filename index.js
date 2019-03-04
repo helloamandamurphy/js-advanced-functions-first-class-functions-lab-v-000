@@ -15,4 +15,7 @@ function fareTripler(fare) {
   return fare * 3
 }
 
+function fetchSpecifiedDrivers(drivers, function) {
+}
+
 
