@@ -12,7 +12,7 @@ function fareDoubler(fare) {
 }
 
 function faretTripler(fare) {
-  return fare * 3
+  return fare * 3;
 }
 
 
